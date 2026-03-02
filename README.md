@@ -3,7 +3,7 @@
 A 2D interactive educational game built in the **Godot Engine** to help 1st-grade students learn foundational math, quantity recognition, and counting through visual play and positive reinforcement.
 
 <p align="center">
-  <video src="Tutorial1.mp4" width="100%" controls></video>
+  <video src="./Tutorial1.mp4" width="100%" controls></video>
   <video src="https://github.com/AlbanyCarper/NomNom-Educational-Math-Game/blob/main/Tutorial2.mp4" width="100%" controls></video>
 </p>
 
