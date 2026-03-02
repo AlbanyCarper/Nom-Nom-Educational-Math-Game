@@ -1,4 +1,4 @@
-# NomNom: Educational Math Game 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palms%20Up%20Together%20Light%20Skin%20Tone.png" alt="Palms Up Together Light Skin Tone" width="25" height="25" /> NomNom: Educational Math Game 
 
 A 2D interactive educational game built in the **Godot Engine** to help 1st-grade students learn foundational math, quantity recognition, and counting through visual play and positive reinforcement.
 
